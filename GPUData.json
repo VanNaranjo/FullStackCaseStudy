@@ -17,7 +17,8 @@
     "QtyOnHand": 16,
     "QtyOnBackOrder": 10,
     "Description": "ASUS ASUS ROG Strix GeForce RTX 4090 featuring 24GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 453.9
+    "CostPrice": 453.9,
+    "SKU": "ASU409024000-0000"
   },
   {
     "Brand": "ASUS",
@@ -37,7 +38,8 @@
     "QtyOnHand": 75,
     "QtyOnBackOrder": 9,
     "Description": "ASUS ASUS TUF Gaming GeForce RTX 4090 featuring 24GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 1131.93
+    "CostPrice": 1131.93,
+    "SKU": "ASU409024000-0001"
   },
   {
     "Brand": "Zotac",
@@ -57,7 +59,8 @@
     "QtyOnHand": 23,
     "QtyOnBackOrder": 50,
     "Description": "Zotac ZOTAC AMP Extreme GeForce RTX 4090 featuring 24GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 734.48
+    "CostPrice": 734.48,
+    "SKU": "ZOT409024000-0002"
   },
   {
     "Brand": "PNY",
@@ -77,7 +80,8 @@
     "QtyOnHand": 38,
     "QtyOnBackOrder": 23,
     "Description": "PNY PNY XLR8 Gaming GeForce RTX 4090 featuring 24GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 322.02
+    "CostPrice": 322.02,
+    "SKU": "PNY409024000-0003"
   },
   {
     "Brand": "ASUS",
@@ -97,7 +101,8 @@
     "QtyOnHand": 34,
     "QtyOnBackOrder": 33,
     "Description": "ASUS ASUS ROG Strix GeForce RTX 4080 featuring 16GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 1240.03
+    "CostPrice": 1240.03,
+    "SKU": "ASU408016000-0004"
   },
   {
     "Brand": "ASUS",
@@ -117,7 +122,8 @@
     "QtyOnHand": 34,
     "QtyOnBackOrder": 18,
     "Description": "ASUS ASUS TUF Gaming GeForce RTX 4080 featuring 16GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 264.8
+    "CostPrice": 264.8,
+    "SKU": "ASU408016000-0005"
   },
   {
     "Brand": "MSI",
@@ -137,7 +143,8 @@
     "QtyOnHand": 42,
     "QtyOnBackOrder": 18,
     "Description": "MSI MSI SUPRIM X GeForce RTX 4090 featuring 24GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 374.26
+    "CostPrice": 374.26,
+    "SKU": "MSI409024000-0006"
   },
   {
     "Brand": "MSI",
@@ -157,7 +164,8 @@
     "QtyOnHand": 60,
     "QtyOnBackOrder": 2,
     "Description": "MSI MSI Gaming X Trio GeForce RTX 4090 featuring 24GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 1209.12
+    "CostPrice": 1209.12,
+    "SKU": "MSI409024000-0007"
   },
   {
     "Brand": "Gigabyte",
@@ -177,7 +185,8 @@
     "QtyOnHand": 44,
     "QtyOnBackOrder": 40,
     "Description": "Gigabyte Gigabyte AORUS Master GeForce RTX 4090 featuring 24GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 541.81
+    "CostPrice": 541.81,
+    "SKU": "GIG409024000-0008"
   },
   {
     "Brand": "Gigabyte",
@@ -197,7 +206,8 @@
     "QtyOnHand": 83,
     "QtyOnBackOrder": 48,
     "Description": "Gigabyte Gigabyte Gaming OC GeForce RTX 4090 featuring 24GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 944.16
+    "CostPrice": 944.16,
+    "SKU": "GIG409024000-0009"
   },
   {
     "Brand": "NVIDIA",
@@ -217,7 +227,8 @@
     "QtyOnHand": 28,
     "QtyOnBackOrder": 50,
     "Description": "NVIDIA NVIDIA Founders Edition GeForce RTX 4090 featuring 24GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 1028.44
+    "CostPrice": 1028.44,
+    "SKU": "NVI409024000-0010"
   },
   {
     "Brand": "MSI",
@@ -237,7 +248,8 @@
     "QtyOnHand": 39,
     "QtyOnBackOrder": 39,
     "Description": "MSI MSI SUPRIM X GeForce RTX 4080 featuring 16GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 962.6
+    "CostPrice": 962.6,
+    "SKU": "MSI408016000-0011"
   },
   {
     "Brand": "MSI",
@@ -257,7 +269,8 @@
     "QtyOnHand": 99,
     "QtyOnBackOrder": 25,
     "Description": "MSI MSI Gaming X Trio GeForce RTX 4080 featuring 16GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 353.09
+    "CostPrice": 353.09,
+    "SKU": "MSI408016000-0012"
   },
   {
     "Brand": "Gigabyte",
@@ -277,7 +290,8 @@
     "QtyOnHand": 62,
     "QtyOnBackOrder": 37,
     "Description": "Gigabyte Gigabyte AORUS Master GeForce RTX 4080 featuring 16GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 293.71
+    "CostPrice": 293.71,
+    "SKU": "GIG408016000-0013"
   },
   {
     "Brand": "Gigabyte",
@@ -297,7 +311,8 @@
     "QtyOnHand": 85,
     "QtyOnBackOrder": 4,
     "Description": "Gigabyte Gigabyte Gaming OC GeForce RTX 4080 featuring 16GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 1188.8
+    "CostPrice": 1188.8,
+    "SKU": "GIG408016000-0014"
   },
   {
     "Brand": "Zotac",
@@ -317,7 +332,8 @@
     "QtyOnHand": 66,
     "QtyOnBackOrder": 39,
     "Description": "Zotac ZOTAC AMP Extreme GeForce RTX 4080 featuring 16GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 803.84
+    "CostPrice": 803.84,
+    "SKU": "ZOT408016000-0015"
   },
   {
     "Brand": "PNY",
@@ -337,7 +353,8 @@
     "QtyOnHand": 57,
     "QtyOnBackOrder": 12,
     "Description": "PNY PNY XLR8 Gaming GeForce RTX 4080 featuring 16GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 703.4
+    "CostPrice": 703.4,
+    "SKU": "PNY408016000-0016"
   },
   {
     "Brand": "NVIDIA",
@@ -357,7 +374,8 @@
     "QtyOnHand": 96,
     "QtyOnBackOrder": 7,
     "Description": "NVIDIA NVIDIA Founders Edition GeForce RTX 4080 featuring 16GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 1004.68
+    "CostPrice": 1004.68,
+    "SKU": "NVI408016000-0017"
   },
   {
     "Brand": "ASUS",
@@ -377,7 +395,8 @@
     "QtyOnHand": 80,
     "QtyOnBackOrder": 12,
     "Description": "ASUS ASUS ROG Strix GeForce RTX 4070 Ti featuring 12GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 989.96
+    "CostPrice": 989.96,
+    "SKU": "ASU4070Ti12000-0018"
   },
   {
     "Brand": "ASUS",
@@ -397,7 +416,8 @@
     "QtyOnHand": 51,
     "QtyOnBackOrder": 47,
     "Description": "ASUS ASUS TUF Gaming GeForce RTX 4070 Ti featuring 12GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 1239.1
+    "CostPrice": 1239.1,
+    "SKU": "ASU4070Ti12000-0019"
   },
   {
     "Brand": "MSI",
@@ -417,7 +437,8 @@
     "QtyOnHand": 64,
     "QtyOnBackOrder": 32,
     "Description": "MSI MSI SUPRIM X GeForce RTX 4070 Ti featuring 12GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 469.92
+    "CostPrice": 469.92,
+    "SKU": "MSI4070Ti12000-0020"
   },
   {
     "Brand": "MSI",
@@ -437,7 +458,8 @@
     "QtyOnHand": 66,
     "QtyOnBackOrder": 20,
     "Description": "MSI MSI Gaming X Trio GeForce RTX 4070 Ti featuring 12GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 786.79
+    "CostPrice": 786.79,
+    "SKU": "MSI4070Ti12000-0021"
   },
   {
     "Brand": "Gigabyte",
@@ -457,7 +479,8 @@
     "QtyOnHand": 96,
     "QtyOnBackOrder": 15,
     "Description": "Gigabyte Gigabyte AORUS Master GeForce RTX 4070 Ti featuring 12GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 412.74
+    "CostPrice": 412.74,
+    "SKU": "GIG4070Ti12000-0022"
   },
   {
     "Brand": "Gigabyte",
@@ -477,7 +500,8 @@
     "QtyOnHand": 73,
     "QtyOnBackOrder": 40,
     "Description": "Gigabyte Gigabyte Gaming OC GeForce RTX 4070 Ti featuring 12GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 1164.37
+    "CostPrice": 1164.37,
+    "SKU": "GIG4070Ti12000-0023"
   },
   {
     "Brand": "Zotac",
@@ -497,7 +521,8 @@
     "QtyOnHand": 54,
     "QtyOnBackOrder": 20,
     "Description": "Zotac ZOTAC AMP Extreme GeForce RTX 4070 Ti featuring 12GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 1644.69
+    "CostPrice": 1644.69,
+    "SKU": "ZOT4070Ti12000-0024"
   },
   {
     "Brand": "PNY",
@@ -517,7 +542,8 @@
     "QtyOnHand": 65,
     "QtyOnBackOrder": 28,
     "Description": "PNY PNY XLR8 Gaming GeForce RTX 4070 Ti featuring 12GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 1486.72
+    "CostPrice": 1486.72,
+    "SKU": "PNY4070Ti12000-0025"
   },
   {
     "Brand": "NVIDIA",
@@ -537,7 +563,8 @@
     "QtyOnHand": 64,
     "QtyOnBackOrder": 30,
     "Description": "NVIDIA NVIDIA Founders Edition GeForce RTX 4070 Ti featuring 12GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 626.3
+    "CostPrice": 626.3,
+    "SKU": "NVI4070Ti12000-0026"
   },
   {
     "Brand": "ASUS",
@@ -557,7 +584,8 @@
     "QtyOnHand": 10,
     "QtyOnBackOrder": 19,
     "Description": "ASUS ASUS ROG Strix GeForce RTX 4070 featuring 12GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 382.94
+    "CostPrice": 382.94,
+    "SKU": "ASU407012000-0027"
   },
   {
     "Brand": "ASUS",
@@ -577,7 +605,8 @@
     "QtyOnHand": 0,
     "QtyOnBackOrder": 43,
     "Description": "ASUS ASUS TUF Gaming GeForce RTX 4070 featuring 12GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 1175.17
+    "CostPrice": 1175.17,
+    "SKU": "ASU407012000-0028"
   },
   {
     "Brand": "MSI",
@@ -597,7 +626,8 @@
     "QtyOnHand": 18,
     "QtyOnBackOrder": 19,
     "Description": "MSI MSI Gaming X Trio GeForce RTX 4070 featuring 12GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 1242.79
+    "CostPrice": 1242.79,
+    "SKU": "MSI407012000-0029"
   },
   {
     "Brand": "Gigabyte",
@@ -617,7 +647,8 @@
     "QtyOnHand": 30,
     "QtyOnBackOrder": 33,
     "Description": "Gigabyte Gigabyte AORUS Master GeForce RTX 4070 featuring 12GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 425.67
+    "CostPrice": 425.67,
+    "SKU": "GIG407012000-0030"
   },
   {
     "Brand": "Gigabyte",
@@ -637,7 +668,8 @@
     "QtyOnHand": 46,
     "QtyOnBackOrder": 31,
     "Description": "Gigabyte Gigabyte Gaming OC GeForce RTX 4070 featuring 12GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 595.31
+    "CostPrice": 595.31,
+    "SKU": "GIG407012000-0031"
   },
   {
     "Brand": "Zotac",
@@ -657,7 +689,8 @@
     "QtyOnHand": 7,
     "QtyOnBackOrder": 22,
     "Description": "Zotac ZOTAC AMP Extreme GeForce RTX 4070 featuring 12GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 728.48
+    "CostPrice": 728.48,
+    "SKU": "ZOT407012000-0032"
   },
   {
     "Brand": "PNY",
@@ -677,7 +710,8 @@
     "QtyOnHand": 7,
     "QtyOnBackOrder": 34,
     "Description": "PNY PNY XLR8 Gaming GeForce RTX 4070 featuring 12GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 1160.65
+    "CostPrice": 1160.65,
+    "SKU": "PNY407012000-0033"
   },
   {
     "Brand": "NVIDIA",
@@ -697,7 +731,8 @@
     "QtyOnHand": 87,
     "QtyOnBackOrder": 34,
     "Description": "NVIDIA NVIDIA Founders Edition GeForce RTX 4070 featuring 12GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 1002.34
+    "CostPrice": 1002.34,
+    "SKU": "NVI407012000-0034"
   },
   {
     "Brand": "ASUS",
@@ -717,7 +752,8 @@
     "QtyOnHand": 48,
     "QtyOnBackOrder": 12,
     "Description": "ASUS ASUS ROG Strix GeForce RTX 4060 Ti featuring 8GB GDDR6 VRAM and advanced cooling.",
-    "CostPrice": 239.66
+    "CostPrice": 239.66,
+    "SKU": "ASU4060Ti8000-0035"
   },
   {
     "Brand": "ASUS",
@@ -737,7 +773,8 @@
     "QtyOnHand": 12,
     "QtyOnBackOrder": 6,
     "Description": "ASUS ASUS TUF Gaming GeForce RTX 4060 Ti featuring 8GB GDDR6 VRAM and advanced cooling.",
-    "CostPrice": 440.17
+    "CostPrice": 440.17,
+    "SKU": "ASU4060Ti8000-0036"
   },
   {
     "Brand": "MSI",
@@ -757,7 +794,8 @@
     "QtyOnHand": 6,
     "QtyOnBackOrder": 24,
     "Description": "MSI MSI Gaming X Trio GeForce RTX 4060 Ti featuring 8GB GDDR6 VRAM and advanced cooling.",
-    "CostPrice": 961.07
+    "CostPrice": 961.07,
+    "SKU": "MSI4060Ti8000-0037"
   },
   {
     "Brand": "Gigabyte",
@@ -777,7 +815,8 @@
     "QtyOnHand": 91,
     "QtyOnBackOrder": 14,
     "Description": "Gigabyte Gigabyte AORUS Master GeForce RTX 4060 Ti featuring 8GB GDDR6 VRAM and advanced cooling.",
-    "CostPrice": 710.95
+    "CostPrice": 710.95,
+    "SKU": "GIG4060Ti8000-0038"
   },
   {
     "Brand": "Gigabyte",
@@ -797,7 +836,8 @@
     "QtyOnHand": 42,
     "QtyOnBackOrder": 42,
     "Description": "Gigabyte Gigabyte Gaming OC GeForce RTX 4060 Ti featuring 8GB GDDR6 VRAM and advanced cooling.",
-    "CostPrice": 667.65
+    "CostPrice": 667.65,
+    "SKU": "GIG4060Ti8000-0039"
   },
   {
     "Brand": "Zotac",
@@ -817,7 +857,8 @@
     "QtyOnHand": 16,
     "QtyOnBackOrder": 28,
     "Description": "Zotac ZOTAC AMP Extreme GeForce RTX 4060 Ti featuring 8GB GDDR6 VRAM and advanced cooling.",
-    "CostPrice": 629.9
+    "CostPrice": 629.9,
+    "SKU": "ZOT4060Ti8000-0040"
   },
   {
     "Brand": "PNY",
@@ -837,7 +878,8 @@
     "QtyOnHand": 45,
     "QtyOnBackOrder": 4,
     "Description": "PNY PNY XLR8 Gaming GeForce RTX 4060 Ti featuring 8GB GDDR6 VRAM and advanced cooling.",
-    "CostPrice": 557.5
+    "CostPrice": 557.5,
+    "SKU": "PNY4060Ti8000-0041"
   },
   {
     "Brand": "NVIDIA",
@@ -857,7 +899,8 @@
     "QtyOnHand": 22,
     "QtyOnBackOrder": 2,
     "Description": "NVIDIA NVIDIA Founders Edition GeForce RTX 4060 Ti featuring 8GB GDDR6 VRAM and advanced cooling.",
-    "CostPrice": 705.89
+    "CostPrice": 705.89,
+    "SKU": "NVI4060Ti8000-0042"
   },
   {
     "Brand": "ASUS",
@@ -877,7 +920,8 @@
     "QtyOnHand": 89,
     "QtyOnBackOrder": 50,
     "Description": "ASUS ASUS Dual GeForce RTX 4060 featuring 8GB GDDR6 VRAM and advanced cooling.",
-    "CostPrice": 335.84
+    "CostPrice": 335.84,
+    "SKU": "ASU40608000-0043"
   },
   {
     "Brand": "ASUS",
@@ -897,7 +941,8 @@
     "QtyOnHand": 64,
     "QtyOnBackOrder": 36,
     "Description": "ASUS ASUS Phoenix GeForce RTX 4060 featuring 8GB GDDR6 VRAM and advanced cooling.",
-    "CostPrice": 1521.13
+    "CostPrice": 1521.13,
+    "SKU": "ASU40608000-0044"
   },
   {
     "Brand": "MSI",
@@ -917,7 +962,8 @@
     "QtyOnHand": 99,
     "QtyOnBackOrder": 47,
     "Description": "MSI MSI Gaming X Trio GeForce RTX 4060 featuring 8GB GDDR6 VRAM and advanced cooling.",
-    "CostPrice": 871.73
+    "CostPrice": 871.73,
+    "SKU": "MSI40608000-0045"
   },
   {
     "Brand": "Gigabyte",
@@ -937,7 +983,8 @@
     "QtyOnHand": 35,
     "QtyOnBackOrder": 16,
     "Description": "Gigabyte Gigabyte AORUS Master GeForce RTX 4060 featuring 8GB GDDR6 VRAM and advanced cooling.",
-    "CostPrice": 885.92
+    "CostPrice": 885.92,
+    "SKU": "GIG40608000-0046"
   },
   {
     "Brand": "Gigabyte",
@@ -957,7 +1004,8 @@
     "QtyOnHand": 50,
     "QtyOnBackOrder": 5,
     "Description": "Gigabyte Gigabyte Gaming OC GeForce RTX 4060 featuring 8GB GDDR6 VRAM and advanced cooling.",
-    "CostPrice": 792.94
+    "CostPrice": 792.94,
+    "SKU": "GIG40608000-0047"
   },
   {
     "Brand": "Zotac",
@@ -977,7 +1025,8 @@
     "QtyOnHand": 49,
     "QtyOnBackOrder": 6,
     "Description": "Zotac ZOTAC AMP Extreme GeForce RTX 4060 featuring 8GB GDDR6 VRAM and advanced cooling.",
-    "CostPrice": 682.9
+    "CostPrice": 682.9,
+    "SKU": "ZOT40608000-0048"
   },
   {
     "Brand": "PNY",
@@ -997,7 +1046,8 @@
     "QtyOnHand": 61,
     "QtyOnBackOrder": 26,
     "Description": "PNY PNY XLR8 Gaming GeForce RTX 4060 featuring 8GB GDDR6 VRAM and advanced cooling.",
-    "CostPrice": 752.8
+    "CostPrice": 752.8,
+    "SKU": "PNY40608000-0049"
   },
   {
     "Brand": "NVIDIA",
@@ -1017,7 +1067,8 @@
     "QtyOnHand": 31,
     "QtyOnBackOrder": 44,
     "Description": "NVIDIA NVIDIA Founders Edition GeForce RTX 4060 featuring 8GB GDDR6 VRAM and advanced cooling.",
-    "CostPrice": 551.31
+    "CostPrice": 551.31,
+    "SKU": "NVI40608000-0050"
   },
   {
     "Brand": "ASUS",
@@ -1037,7 +1088,8 @@
     "QtyOnHand": 41,
     "QtyOnBackOrder": 21,
     "Description": "ASUS ASUS ROG Strix GeForce RTX 4050 featuring 6GB GDDR6 VRAM and advanced cooling.",
-    "CostPrice": 653.41
+    "CostPrice": 653.41,
+    "SKU": "ASU40506000-0051"
   },
   {
     "Brand": "ASUS",
@@ -1057,7 +1109,8 @@
     "QtyOnHand": 59,
     "QtyOnBackOrder": 16,
     "Description": "ASUS ASUS Dual GeForce RTX 4050 featuring 6GB GDDR6 VRAM and advanced cooling.",
-    "CostPrice": 1732.45
+    "CostPrice": 1732.45,
+    "SKU": "ASU40506000-0052"
   },
   {
     "Brand": "MSI",
@@ -1077,7 +1130,8 @@
     "QtyOnHand": 37,
     "QtyOnBackOrder": 32,
     "Description": "MSI MSI Gaming X Trio GeForce RTX 4050 featuring 6GB GDDR6 VRAM and advanced cooling.",
-    "CostPrice": 225.03
+    "CostPrice": 225.03,
+    "SKU": "MSI40506000-0053"
   },
   {
     "Brand": "Gigabyte",
@@ -1097,7 +1151,8 @@
     "QtyOnHand": 29,
     "QtyOnBackOrder": 5,
     "Description": "Gigabyte Gigabyte Eagle GeForce RTX 4050 featuring 6GB GDDR6 VRAM and advanced cooling.",
-    "CostPrice": 1322.08
+    "CostPrice": 1322.08,
+    "SKU": "GIG40506000-0054"
   },
   {
     "Brand": "Zotac",
@@ -1117,7 +1172,8 @@
     "QtyOnHand": 71,
     "QtyOnBackOrder": 33,
     "Description": "Zotac ZOTAC AMP Extreme GeForce RTX 4050 featuring 6GB GDDR6 VRAM and advanced cooling.",
-    "CostPrice": 633.12
+    "CostPrice": 633.12,
+    "SKU": "ZOT40506000-0055"
   },
   {
     "Brand": "PNY",
@@ -1137,7 +1193,8 @@
     "QtyOnHand": 41,
     "QtyOnBackOrder": 21,
     "Description": "PNY PNY XLR8 Gaming GeForce RTX 4050 featuring 6GB GDDR6 VRAM and advanced cooling.",
-    "CostPrice": 1402.38
+    "CostPrice": 1402.38,
+    "SKU": "PNY40506000-0056"
   },
   {
     "Brand": "NVIDIA",
@@ -1157,7 +1214,8 @@
     "QtyOnHand": 99,
     "QtyOnBackOrder": 3,
     "Description": "NVIDIA NVIDIA Founders Edition GeForce RTX 4050 featuring 6GB GDDR6 VRAM and advanced cooling.",
-    "CostPrice": 1208.12
+    "CostPrice": 1208.12,
+    "SKU": "NVI40506000-0057"
   },
   {
     "Brand": "ASUS",
@@ -1177,7 +1235,8 @@
     "QtyOnHand": 81,
     "QtyOnBackOrder": 45,
     "Description": "ASUS ASUS ROG Strix GeForce RTX 3090 featuring 24GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 1630.12
+    "CostPrice": 1630.12,
+    "SKU": "ASU309024000-0058"
   },
   {
     "Brand": "ASUS",
@@ -1197,7 +1256,8 @@
     "QtyOnHand": 31,
     "QtyOnBackOrder": 24,
     "Description": "ASUS ASUS TUF Gaming GeForce RTX 3090 featuring 24GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 476.48
+    "CostPrice": 476.48,
+    "SKU": "ASU309024000-0059"
   },
   {
     "Brand": "MSI",
@@ -1217,7 +1277,8 @@
     "QtyOnHand": 56,
     "QtyOnBackOrder": 23,
     "Description": "MSI MSI SUPRIM X GeForce RTX 3090 featuring 24GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 960.1
+    "CostPrice": 960.1,
+    "SKU": "MSI309024000-0060"
   },
   {
     "Brand": "MSI",
@@ -1237,7 +1298,8 @@
     "QtyOnHand": 91,
     "QtyOnBackOrder": 21,
     "Description": "MSI MSI Gaming X Trio GeForce RTX 3090 featuring 24GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 836.49
+    "CostPrice": 836.49,
+    "SKU": "MSI309024000-0061"
   },
   {
     "Brand": "Gigabyte",
@@ -1257,7 +1319,8 @@
     "QtyOnHand": 49,
     "QtyOnBackOrder": 17,
     "Description": "Gigabyte Gigabyte AORUS Master GeForce RTX 3090 featuring 24GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 722.66
+    "CostPrice": 722.66,
+    "SKU": "GIG309024000-0062"
   },
   {
     "Brand": "Gigabyte",
@@ -1277,7 +1340,8 @@
     "QtyOnHand": 36,
     "QtyOnBackOrder": 11,
     "Description": "Gigabyte Gigabyte Gaming OC GeForce RTX 3090 featuring 24GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 980.87
+    "CostPrice": 980.87,
+    "SKU": "GIG309024000-0063"
   },
   {
     "Brand": "Zotac",
@@ -1297,7 +1361,8 @@
     "QtyOnHand": 42,
     "QtyOnBackOrder": 48,
     "Description": "Zotac ZOTAC AMP Extreme GeForce RTX 3090 featuring 24GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 1319.69
+    "CostPrice": 1319.69,
+    "SKU": "ZOT309024000-0064"
   },
   {
     "Brand": "EVGA",
@@ -1317,7 +1382,8 @@
     "QtyOnHand": 75,
     "QtyOnBackOrder": 16,
     "Description": "EVGA EVGA FTW3 Ultra GeForce RTX 3090 featuring 24GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 1112.85
+    "CostPrice": 1112.85,
+    "SKU": "EVG309024000-0065"
   },
   {
     "Brand": "EVGA",
@@ -1337,7 +1403,8 @@
     "QtyOnHand": 47,
     "QtyOnBackOrder": 22,
     "Description": "EVGA EVGA XC3 Ultra GeForce RTX 3090 featuring 24GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 1470.64
+    "CostPrice": 1470.64,
+    "SKU": "EVG309024000-0066"
   },
   {
     "Brand": "NVIDIA",
@@ -1357,7 +1424,8 @@
     "QtyOnHand": 11,
     "QtyOnBackOrder": 30,
     "Description": "NVIDIA NVIDIA Founders Edition GeForce RTX 3090 featuring 24GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 394.16
+    "CostPrice": 394.16,
+    "SKU": "NVI309024000-0067"
   },
   {
     "Brand": "ASUS",
@@ -1377,7 +1445,8 @@
     "QtyOnHand": 66,
     "QtyOnBackOrder": 24,
     "Description": "ASUS ASUS ROG Strix GeForce RTX 3090 Ti featuring 24GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 714.41
+    "CostPrice": 714.41,
+    "SKU": "ASU3090Ti24000-0068"
   },
   {
     "Brand": "ASUS",
@@ -1397,7 +1466,8 @@
     "QtyOnHand": 96,
     "QtyOnBackOrder": 27,
     "Description": "ASUS ASUS TUF Gaming GeForce RTX 3090 Ti featuring 24GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 782.38
+    "CostPrice": 782.38,
+    "SKU": "ASU3090Ti24000-0069"
   },
   {
     "Brand": "MSI",
@@ -1417,7 +1487,8 @@
     "QtyOnHand": 45,
     "QtyOnBackOrder": 12,
     "Description": "MSI MSI SUPRIM X GeForce RTX 3090 Ti featuring 24GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 1066.8
+    "CostPrice": 1066.8,
+    "SKU": "MSI3090Ti24000-0070"
   },
   {
     "Brand": "MSI",
@@ -1437,7 +1508,8 @@
     "QtyOnHand": 21,
     "QtyOnBackOrder": 0,
     "Description": "MSI MSI Gaming X Trio GeForce RTX 3090 Ti featuring 24GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 1061.79
+    "CostPrice": 1061.79,
+    "SKU": "MSI3090Ti24000-0071"
   },
   {
     "Brand": "Gigabyte",
@@ -1457,7 +1529,8 @@
     "QtyOnHand": 73,
     "QtyOnBackOrder": 19,
     "Description": "Gigabyte Gigabyte AORUS Master GeForce RTX 3090 Ti featuring 24GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 485.46
+    "CostPrice": 485.46,
+    "SKU": "GIG3090Ti24000-0072"
   },
   {
     "Brand": "Gigabyte",
@@ -1477,7 +1550,8 @@
     "QtyOnHand": 62,
     "QtyOnBackOrder": 29,
     "Description": "Gigabyte Gigabyte Gaming OC GeForce RTX 3090 Ti featuring 24GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 1424.1
+    "CostPrice": 1424.1,
+    "SKU": "GIG3090Ti24000-0073"
   },
   {
     "Brand": "Zotac",
@@ -1497,7 +1571,8 @@
     "QtyOnHand": 77,
     "QtyOnBackOrder": 24,
     "Description": "Zotac ZOTAC AMP Extreme GeForce RTX 3090 Ti featuring 24GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 388.45
+    "CostPrice": 388.45,
+    "SKU": "ZOT3090Ti24000-0074"
   },
   {
     "Brand": "EVGA",
@@ -1517,7 +1592,8 @@
     "QtyOnHand": 8,
     "QtyOnBackOrder": 2,
     "Description": "EVGA EVGA FTW3 Ultra GeForce RTX 3090 Ti featuring 24GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 422.44
+    "CostPrice": 422.44,
+    "SKU": "EVG3090Ti24000-0075"
   },
   {
     "Brand": "EVGA",
@@ -1537,7 +1613,8 @@
     "QtyOnHand": 41,
     "QtyOnBackOrder": 47,
     "Description": "EVGA EVGA XC3 Ultra GeForce RTX 3090 Ti featuring 24GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 584.12
+    "CostPrice": 584.12,
+    "SKU": "EVG3090Ti24000-0076"
   },
   {
     "Brand": "NVIDIA",
@@ -1557,7 +1634,8 @@
     "QtyOnHand": 16,
     "QtyOnBackOrder": 33,
     "Description": "NVIDIA NVIDIA Founders Edition GeForce RTX 3090 Ti featuring 24GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 1241.59
+    "CostPrice": 1241.59,
+    "SKU": "NVI3090Ti24000-0077"
   },
   {
     "Brand": "ASUS",
@@ -1577,7 +1655,8 @@
     "QtyOnHand": 57,
     "QtyOnBackOrder": 45,
     "Description": "ASUS ASUS ROG Strix GeForce RTX 3070 Ti featuring 8GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 1260.27
+    "CostPrice": 1260.27,
+    "SKU": "ASU3070Ti8000-0078"
   },
   {
     "Brand": "ASUS",
@@ -1597,7 +1676,8 @@
     "QtyOnHand": 11,
     "QtyOnBackOrder": 6,
     "Description": "ASUS ASUS TUF Gaming GeForce RTX 3070 Ti featuring 8GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 668.45
+    "CostPrice": 668.45,
+    "SKU": "ASU3070Ti8000-0079"
   },
   {
     "Brand": "MSI",
@@ -1617,7 +1697,8 @@
     "QtyOnHand": 71,
     "QtyOnBackOrder": 14,
     "Description": "MSI MSI Gaming X Trio GeForce RTX 3070 Ti featuring 8GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 1466.98
+    "CostPrice": 1466.98,
+    "SKU": "MSI3070Ti8000-0080"
   },
   {
     "Brand": "Gigabyte",
@@ -1637,7 +1718,8 @@
     "QtyOnHand": 5,
     "QtyOnBackOrder": 8,
     "Description": "Gigabyte Gigabyte AORUS Master GeForce RTX 3070 Ti featuring 8GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 511.22
+    "CostPrice": 511.22,
+    "SKU": "GIG3070Ti8000-0081"
   },
   {
     "Brand": "Gigabyte",
@@ -1657,7 +1739,8 @@
     "QtyOnHand": 74,
     "QtyOnBackOrder": 50,
     "Description": "Gigabyte Gigabyte Gaming OC GeForce RTX 3070 Ti featuring 8GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 912.78
+    "CostPrice": 912.78,
+    "SKU": "GIG3070Ti8000-0082"
   },
   {
     "Brand": "EVGA",
@@ -1677,7 +1760,8 @@
     "QtyOnHand": 3,
     "QtyOnBackOrder": 27,
     "Description": "EVGA EVGA FTW3 Ultra GeForce RTX 3070 Ti featuring 8GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 622.42
+    "CostPrice": 622.42,
+    "SKU": "EVG3070Ti8000-0083"
   },
   {
     "Brand": "EVGA",
@@ -1697,7 +1781,8 @@
     "QtyOnHand": 20,
     "QtyOnBackOrder": 25,
     "Description": "EVGA EVGA XC3 Ultra GeForce RTX 3070 Ti featuring 8GB GDDR6X VRAM and advanced cooling.",
-    "CostPrice": 329.05
+    "CostPrice": 329.05,
+    "SKU": "EVG3070Ti8000-0084"
   },
   {
     "Brand": "ASUS",
@@ -1717,7 +1802,8 @@
     "QtyOnHand": 40,
     "QtyOnBackOrder": 35,
     "Description": "ASUS ASUS ROG Strix GeForce RTX 3070 featuring 8GB GDDR6 VRAM and advanced cooling.",
-    "CostPrice": 1101.5
+    "CostPrice": 1101.5,
+    "SKU": "ASU30708000-0085"
   },
   {
     "Brand": "ASUS",
@@ -1737,7 +1823,8 @@
     "QtyOnHand": 4,
     "QtyOnBackOrder": 21,
     "Description": "ASUS ASUS Dual GeForce RTX 3070 featuring 8GB GDDR6 VRAM and advanced cooling.",
-    "CostPrice": 1193.2
+    "CostPrice": 1193.2,
+    "SKU": "ASU30708000-0086"
   },
   {
     "Brand": "MSI",
@@ -1757,7 +1844,8 @@
     "QtyOnHand": 76,
     "QtyOnBackOrder": 24,
     "Description": "MSI MSI Gaming X Trio GeForce RTX 3070 featuring 8GB GDDR6 VRAM and advanced cooling.",
-    "CostPrice": 280.39
+    "CostPrice": 280.39,
+    "SKU": "MSI30708000-0087"
   },
   {
     "Brand": "Gigabyte",
@@ -1777,7 +1865,8 @@
     "QtyOnHand": 75,
     "QtyOnBackOrder": 1,
     "Description": "Gigabyte Gigabyte AORUS Master GeForce RTX 3070 featuring 8GB GDDR6 VRAM and advanced cooling.",
-    "CostPrice": 432.96
+    "CostPrice": 432.96,
+    "SKU": "GIG30708000-0088"
   },
   {
     "Brand": "Gigabyte",
@@ -1797,6 +1886,7 @@
     "QtyOnHand": 80,
     "QtyOnBackOrder": 32,
     "Description": "Gigabyte Gigabyte Eagle GeForce RTX 3070 featuring 8GB GDDR6 VRAM and advanced cooling.",
-    "CostPrice": 1204.19
+    "CostPrice": 1204.19,
+    "SKU": "GIG30708000-0089"
   }
 ]
