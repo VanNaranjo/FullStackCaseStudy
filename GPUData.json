@@ -30,66 +30,6 @@
     "SourceURL": "GPUData"
   },
   {
-    "Brand": "MSI",
-    "ProductName": "MSI SUPRIM X GeForce RTX 4090",
-    "GPU": "NVIDIA",
-    "GraphicsProcessor": "4090",
-    "TotalVideoMemory": "24GB",
-    "MinGPUClock": 2235,
-    "MaxGPUClock": 2535,
-    "MemoryClock": "21 Gbps",
-    "MemoryType": "GDDR6X",
-    "MemorySize": 24000,
-    "MemoryBusWidth": 384,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4090.jpg",
-    "SourceURL": "GPUData"
-  },
-  {
-    "Brand": "MSI",
-    "ProductName": "MSI Gaming X Trio GeForce RTX 4090",
-    "GPU": "NVIDIA",
-    "GraphicsProcessor": "4090",
-    "TotalVideoMemory": "24GB",
-    "MinGPUClock": 2235,
-    "MaxGPUClock": 2535,
-    "MemoryClock": "21 Gbps",
-    "MemoryType": "GDDR6X",
-    "MemorySize": 24000,
-    "MemoryBusWidth": 384,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4090.jpg",
-    "SourceURL": "GPUData"
-  },
-  {
-    "Brand": "Gigabyte",
-    "ProductName": "Gigabyte AORUS Master GeForce RTX 4090",
-    "GPU": "NVIDIA",
-    "GraphicsProcessor": "4090",
-    "TotalVideoMemory": "24GB",
-    "MinGPUClock": 2235,
-    "MaxGPUClock": 2535,
-    "MemoryClock": "21 Gbps",
-    "MemoryType": "GDDR6X",
-    "MemorySize": 24000,
-    "MemoryBusWidth": 384,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4090.jpg",
-    "SourceURL": "GPUData"
-  },
-  {
-    "Brand": "Gigabyte",
-    "ProductName": "Gigabyte Gaming OC GeForce RTX 4090",
-    "GPU": "NVIDIA",
-    "GraphicsProcessor": "4090",
-    "TotalVideoMemory": "24GB",
-    "MinGPUClock": 2235,
-    "MaxGPUClock": 2535,
-    "MemoryClock": "21 Gbps",
-    "MemoryType": "GDDR6X",
-    "MemorySize": 24000,
-    "MemoryBusWidth": 384,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4090.jpg",
-    "SourceURL": "GPUData"
-  },
-  {
     "Brand": "Zotac",
     "ProductName": "ZOTAC AMP Extreme GeForce RTX 4090",
     "GPU": "NVIDIA",
@@ -117,21 +57,6 @@
     "MemorySize": 24000,
     "MemoryBusWidth": 384,
     "GraphicURL": "https://www.pny.com/productimages/4C6F7ACB-25ED-4EBD-9A28-AF1F01166284/images/pny-rtx-4090-verto-triple-fan-ra.png",
-    "SourceURL": "GPUData"
-  },
-  {
-    "Brand": "NVIDIA",
-    "ProductName": "NVIDIA Founders Edition GeForce RTX 4090",
-    "GPU": "NVIDIA",
-    "GraphicsProcessor": "4090",
-    "TotalVideoMemory": "24GB",
-    "MinGPUClock": 2235,
-    "MaxGPUClock": 2535,
-    "MemoryClock": "21 Gbps",
-    "MemoryType": "GDDR6X",
-    "MemorySize": 24000,
-    "MemoryBusWidth": 384,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4090.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -166,6 +91,81 @@
   },
   {
     "Brand": "MSI",
+    "ProductName": "MSI SUPRIM X GeForce RTX 4090",
+    "GPU": "NVIDIA",
+    "GraphicsProcessor": "4090",
+    "TotalVideoMemory": "24GB",
+    "MinGPUClock": 2235,
+    "MaxGPUClock": 2535,
+    "MemoryClock": "21 Gbps",
+    "MemoryType": "GDDR6X",
+    "MemorySize": 24000,
+    "MemoryBusWidth": 384,
+    "GraphicURL": "https://tpucdn.com/review/msi-geforce-rtx-4090-suprim-x/images/title.jpg",
+    "SourceURL": "GPUData"
+  },
+  {
+    "Brand": "MSI",
+    "ProductName": "MSI Gaming X Trio GeForce RTX 4090",
+    "GPU": "NVIDIA",
+    "GraphicsProcessor": "4090",
+    "TotalVideoMemory": "24GB",
+    "MinGPUClock": 2235,
+    "MaxGPUClock": 2535,
+    "MemoryClock": "21 Gbps",
+    "MemoryType": "GDDR6X",
+    "MemorySize": 24000,
+    "MemoryBusWidth": 384,
+    "GraphicURL": "https://asset.msi.com/resize/image/global/product/product_16655531780ae76e91e577ad9719f1f135824e1a15.png62405b38c58fe0f07fcef2367d8a9ba1/600.png",
+    "SourceURL": "GPUData"
+  },
+  {
+    "Brand": "Gigabyte",
+    "ProductName": "Gigabyte AORUS Master GeForce RTX 4090",
+    "GPU": "NVIDIA",
+    "GraphicsProcessor": "4090",
+    "TotalVideoMemory": "24GB",
+    "MinGPUClock": 2235,
+    "MaxGPUClock": 2535,
+    "MemoryClock": "21 Gbps",
+    "MemoryType": "GDDR6X",
+    "MemorySize": 24000,
+    "MemoryBusWidth": 384,
+    "GraphicURL": "https://m.media-amazon.com/images/I/71weEUoPsyL.jpg",
+    "SourceURL": "GPUData"
+  },
+  {
+    "Brand": "Gigabyte",
+    "ProductName": "Gigabyte Gaming OC GeForce RTX 4090",
+    "GPU": "NVIDIA",
+    "GraphicsProcessor": "4090",
+    "TotalVideoMemory": "24GB",
+    "MinGPUClock": 2235,
+    "MaxGPUClock": 2535,
+    "MemoryClock": "21 Gbps",
+    "MemoryType": "GDDR6X",
+    "MemorySize": 24000,
+    "MemoryBusWidth": 384,
+    "GraphicURL": "https://m.media-amazon.com/images/I/61malv3U-WL._AC_UF894,1000_QL80_.jpg",
+    "SourceURL": "GPUData"
+  },
+  {
+    "Brand": "NVIDIA",
+    "ProductName": "NVIDIA Founders Edition GeForce RTX 4090",
+    "GPU": "NVIDIA",
+    "GraphicsProcessor": "4090",
+    "TotalVideoMemory": "24GB",
+    "MinGPUClock": 2235,
+    "MaxGPUClock": 2535,
+    "MemoryClock": "21 Gbps",
+    "MemoryType": "GDDR6X",
+    "MemorySize": 24000,
+    "MemoryBusWidth": 384,
+    "GraphicURL": "https://m.media-amazon.com/images/I/51EL-FaK4XL.jpg",
+    "SourceURL": "GPUData"
+  },
+  {
+    "Brand": "MSI",
     "ProductName": "MSI SUPRIM X GeForce RTX 4080",
     "GPU": "NVIDIA",
     "GraphicsProcessor": "4080",
@@ -176,7 +176,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 16000,
     "MemoryBusWidth": 256,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4080.jpg",
+    "GraphicURL": "https://asset.msi.com/resize/image/global/product/product_1668072619aaa562df9dd1ada3ffebd483276bac5c.png62405b38c58fe0f07fcef2367d8a9ba1/600.png",
     "SourceURL": "GPUData"
   },
   {
@@ -191,7 +191,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 16000,
     "MemoryBusWidth": 256,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4080.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/71aytYjILTL.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -206,7 +206,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 16000,
     "MemoryBusWidth": 256,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4080.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/71SkWMHl1yL.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -221,7 +221,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 16000,
     "MemoryBusWidth": 256,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4080.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/715V9bTWg8L._AC_UF894,1000_QL80_.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -236,7 +236,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 16000,
     "MemoryBusWidth": 256,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4080.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/81yJf+y4eKL.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -251,7 +251,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 16000,
     "MemoryBusWidth": 256,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4080.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/71DlVFnJTXL.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -266,7 +266,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 16000,
     "MemoryBusWidth": 256,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4080.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/71m9FJCubXL.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -281,7 +281,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 12000,
     "MemoryBusWidth": 192,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4070_Ti.jpg",
+    "GraphicURL": "https://dlcdnwebimgs.asus.com/gain/E0F17D10-DCBB-4681-BA9B-9045E5F7D1F2/w717/h525",
     "SourceURL": "GPUData"
   },
   {
@@ -296,7 +296,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 12000,
     "MemoryBusWidth": 192,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4070_Ti.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/81XIr69BtVL.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -311,7 +311,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 12000,
     "MemoryBusWidth": 192,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4070_Ti.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/71r7M5hyKxL.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -326,7 +326,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 12000,
     "MemoryBusWidth": 192,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4070_Ti.jpg",
+    "GraphicURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvMn-nYEXJtRGFc9E8oRyuMq8nSvpxZxfkQw&s",
     "SourceURL": "GPUData"
   },
   {
@@ -341,7 +341,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 12000,
     "MemoryBusWidth": 192,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4070_Ti.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/71FRiDANxFL.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -356,7 +356,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 12000,
     "MemoryBusWidth": 192,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4070_Ti.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/71T1fQI83iL._AC_UF894,1000_QL80_.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -371,7 +371,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 12000,
     "MemoryBusWidth": 192,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4070_Ti.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/81CuO8RPZlL.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -386,7 +386,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 12000,
     "MemoryBusWidth": 192,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4070_Ti.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/71BGmiM5y3L._AC_UF350,350_QL50_.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -401,7 +401,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 12000,
     "MemoryBusWidth": 192,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4070_Ti.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/51vn5-j1qEL.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -416,7 +416,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 12000,
     "MemoryBusWidth": 192,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4070.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/71PmYsN6GCL._AC_UF894,1000_QL80_.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -431,7 +431,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 12000,
     "MemoryBusWidth": 192,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4070.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/81XIr69BtVL.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -446,7 +446,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 12000,
     "MemoryBusWidth": 192,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4070.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/81Ai-EvnYcL.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -461,7 +461,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 12000,
     "MemoryBusWidth": 192,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4070.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/71FRiDANxFL.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -476,7 +476,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 12000,
     "MemoryBusWidth": 192,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4070.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/71liIYrRmkL.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -491,7 +491,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 12000,
     "MemoryBusWidth": 192,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4070.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/61dj9-nrM2L._AC_UF894,1000_QL80_.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -506,7 +506,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 12000,
     "MemoryBusWidth": 192,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4070.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/61u5pQ152oL._AC_UF894,1000_QL80_.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -521,7 +521,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 12000,
     "MemoryBusWidth": 192,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4070.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/51vn5-j1qEL.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -536,7 +536,7 @@
     "MemoryType": "GDDR6",
     "MemorySize": 8000,
     "MemoryBusWidth": 128,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4060_Ti.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/8196MD83TwL.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -551,7 +551,7 @@
     "MemoryType": "GDDR6",
     "MemorySize": 8000,
     "MemoryBusWidth": 128,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4060_Ti.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/81JM5rAgJ2L._AC_UF894,1000_QL80_.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -566,7 +566,7 @@
     "MemoryType": "GDDR6",
     "MemorySize": 8000,
     "MemoryBusWidth": 128,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4060_Ti.jpg",
+    "GraphicURL": "https://asset.msi.com/resize/image/global/product/product_1684376335b2c03f7463ba29182641ce32aa00ff0b.png62405b38c58fe0f07fcef2367d8a9ba1/600.png",
     "SourceURL": "GPUData"
   },
   {
@@ -581,7 +581,7 @@
     "MemoryType": "GDDR6",
     "MemorySize": 8000,
     "MemoryBusWidth": 128,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4060_Ti.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/71UfN42g08L.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -596,7 +596,7 @@
     "MemoryType": "GDDR6",
     "MemorySize": 8000,
     "MemoryBusWidth": 128,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4060_Ti.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/6162zMsc7XL._AC_UF894,1000_QL80_.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -611,7 +611,7 @@
     "MemoryType": "GDDR6",
     "MemorySize": 8000,
     "MemoryBusWidth": 128,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4060_Ti.jpg",
+    "GraphicURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm-jkCaSdlo-OqBH_9qwawv2j8OQBzz6Uaew&s",
     "SourceURL": "GPUData"
   },
   {
@@ -626,7 +626,7 @@
     "MemoryType": "GDDR6",
     "MemorySize": 8000,
     "MemoryBusWidth": 128,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4060_Ti.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/61lWvDoH+DL._AC_UF350,350_QL50_.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -641,7 +641,7 @@
     "MemoryType": "GDDR6",
     "MemorySize": 8000,
     "MemoryBusWidth": 128,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4060_Ti.jpg",
+    "GraphicURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZCXI-diSPDkHi9oA1ywXEiiIzuEzqK4BVdw&s",
     "SourceURL": "GPUData"
   },
   {
@@ -656,7 +656,7 @@
     "MemoryType": "GDDR6",
     "MemorySize": 8000,
     "MemoryBusWidth": 128,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4060.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/817G0HRzaZL.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -671,7 +671,7 @@
     "MemoryType": "GDDR6",
     "MemorySize": 8000,
     "MemoryBusWidth": 128,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4060.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/71VV4UjwmcL.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -686,7 +686,7 @@
     "MemoryType": "GDDR6",
     "MemorySize": 8000,
     "MemoryBusWidth": 128,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4060.jpg",
+    "GraphicURL": "https://asset.msi.com/resize/image/global/product/product_1684376335b2c03f7463ba29182641ce32aa00ff0b.png62405b38c58fe0f07fcef2367d8a9ba1/600.png",
     "SourceURL": "GPUData"
   },
   {
@@ -701,7 +701,7 @@
     "MemoryType": "GDDR6",
     "MemorySize": 8000,
     "MemoryBusWidth": 128,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4060.jpg",
+    "GraphicURL": "https://www.gigabyte.com/FileUpload/Global/KeyFeature/2414/innergigabyteimages/kf-card.png",
     "SourceURL": "GPUData"
   },
   {
@@ -716,7 +716,7 @@
     "MemoryType": "GDDR6",
     "MemorySize": 8000,
     "MemoryBusWidth": 128,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4060.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/71N7BLpLAhL.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -731,7 +731,7 @@
     "MemoryType": "GDDR6",
     "MemorySize": 8000,
     "MemoryBusWidth": 128,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4060.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/71s14uTuSHL._AC_UF350,350_QL80_.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -746,7 +746,7 @@
     "MemoryType": "GDDR6",
     "MemorySize": 8000,
     "MemoryBusWidth": 128,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4060.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/617QVnCqXYL.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -761,7 +761,7 @@
     "MemoryType": "GDDR6",
     "MemorySize": 8000,
     "MemoryBusWidth": 128,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4060.jpg",
+    "GraphicURL": "https://external-preview.redd.it/nvidia-geforce-rtx-4060-non-ti-graphics-cards-might-launch-v0-VpXyk6WlXtQyFAYgW-Jop2IF0GLR1nmSzXY4aJPqbzg.jpg?width=640&crop=smart&auto=webp&s=2ac528591610ed7fa185dac7c54cfef7f1ea0a0f",
     "SourceURL": "GPUData"
   },
   {
@@ -776,7 +776,7 @@
     "MemoryType": "GDDR6",
     "MemorySize": 6000,
     "MemoryBusWidth": 128,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4050.jpg",
+    "GraphicURL": "https://cdn.cs.1worldsync.com/6a/35/6a35075a-1e93-4845-a5fc-03157453826b.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -791,7 +791,7 @@
     "MemoryType": "GDDR6",
     "MemorySize": 6000,
     "MemoryBusWidth": 128,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4050.jpg",
+    "GraphicURL": "https://dlcdnwebimgs.asus.com/gain/5ba5b969-5f68-44a1-bef0-789a2ca05d88/",
     "SourceURL": "GPUData"
   },
   {
@@ -806,7 +806,7 @@
     "MemoryType": "GDDR6",
     "MemorySize": 6000,
     "MemoryBusWidth": 128,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4050.jpg",
+    "GraphicURL": "https://asset.msi.com/resize/image/global/product/product_1663742002e0bd21ebc380d0ea907a5374ca6919f8.png62405b38c58fe0f07fcef2367d8a9ba1/600.png",
     "SourceURL": "GPUData"
   },
   {
@@ -821,7 +821,7 @@
     "MemoryType": "GDDR6",
     "MemorySize": 6000,
     "MemoryBusWidth": 128,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4050.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/61blPJD0pUL.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -836,7 +836,7 @@
     "MemoryType": "GDDR6",
     "MemorySize": 6000,
     "MemoryBusWidth": 128,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4050.jpg",
+    "GraphicURL": "https://www.zotac.com/tw/system/files/news/desc/images/zotac-gaming-40series-spectra_cards.png",
     "SourceURL": "GPUData"
   },
   {
@@ -851,7 +851,7 @@
     "MemoryType": "GDDR6",
     "MemorySize": 6000,
     "MemoryBusWidth": 128,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4050.jpg",
+    "GraphicURL": "https://www.pny.com/productimages/4E267FD7-1CE7-463F-AACC-B0C0012F4F79/images/XLR8-RTX-4060-8GB-OC-Dual-Fan-ra-2.png",
     "SourceURL": "GPUData"
   },
   {
@@ -866,7 +866,7 @@
     "MemoryType": "GDDR6",
     "MemorySize": 6000,
     "MemoryBusWidth": 128,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_4050.jpg",
+    "GraphicURL": "https://cdn.wccftech.com/wp-content/uploads/2022/06/RTX-4050-very_compressed-scale-6_00x-Custom.png",
     "SourceURL": "GPUData"
   },
   {
@@ -881,7 +881,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 24000,
     "MemoryBusWidth": 384,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_3090.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/91XyrUFYKfL.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -896,7 +896,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 24000,
     "MemoryBusWidth": 384,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_3090.jpg",
+    "GraphicURL": "https://dlcdnwebimgs.asus.com/gain/a391e6f3-74d9-46d8-bccf-24f0e6713232/",
     "SourceURL": "GPUData"
   },
   {
@@ -911,7 +911,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 24000,
     "MemoryBusWidth": 384,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_3090.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/61ogCD+vitL.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -926,7 +926,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 24000,
     "MemoryBusWidth": 384,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_3090.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/71GwcN+TseL.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -941,7 +941,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 24000,
     "MemoryBusWidth": 384,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_3090.jpg",
+    "GraphicURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZDRsNLF6yimlueIseyJEiKJXSggMUsk5owA&s",
     "SourceURL": "GPUData"
   },
   {
@@ -956,7 +956,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 24000,
     "MemoryBusWidth": 384,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_3090.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/81ZxzeX8YBL.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -971,7 +971,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 24000,
     "MemoryBusWidth": 384,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_3090.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/61o+5ytOVcL.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -986,7 +986,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 24000,
     "MemoryBusWidth": 384,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_3090.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/81QuOSSvYAS.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -1001,7 +1001,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 24000,
     "MemoryBusWidth": 384,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_3090.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/819ukZJjThL.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -1016,7 +1016,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 24000,
     "MemoryBusWidth": 384,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_3090.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/61w-oDCjydL.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -1031,7 +1031,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 24000,
     "MemoryBusWidth": 384,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_3090_Ti.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/81Kp5j9Tl1L.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -1046,7 +1046,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 24000,
     "MemoryBusWidth": 384,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_3090_Ti.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/81Y3qQfLqtL.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -1061,7 +1061,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 24000,
     "MemoryBusWidth": 384,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_3090_Ti.jpg",
+    "GraphicURL": "https://asset.msi.com/resize/image/global/product/product_1653369449949ff459cf007d9f2d864d3980e09ebf.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
     "SourceURL": "GPUData"
   },
   {
@@ -1076,7 +1076,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 24000,
     "MemoryBusWidth": 384,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_3090_Ti.jpg",
+    "GraphicURL": "https://asset.msi.com/resize/image/global/product/product_1648607796d7a974fcea5b16024b9fe9e2e090c798.png62405b38c58fe0f07fcef2367d8a9ba1/600.png",
     "SourceURL": "GPUData"
   },
   {
@@ -1091,7 +1091,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 24000,
     "MemoryBusWidth": 384,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_3090_Ti.jpg",
+    "GraphicURL": "https://www.gigabyte.com/FileUpload/Global/KeyFeature/1621/innergigabyteimages/kf-img.png",
     "SourceURL": "GPUData"
   },
   {
@@ -1106,7 +1106,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 24000,
     "MemoryBusWidth": 384,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_3090_Ti.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/61-Rl5w7bIL._AC_UF894,1000_QL80_.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -1121,7 +1121,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 24000,
     "MemoryBusWidth": 384,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_3090_Ti.jpg",
+    "GraphicURL": "https://tpucdn.com/review/zotac-geforce-rtx-3090-ti-amp-extreme/images/title.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -1136,7 +1136,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 24000,
     "MemoryBusWidth": 384,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_3090_Ti.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/81Qu95qJUeL.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -1151,7 +1151,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 24000,
     "MemoryBusWidth": 384,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_3090_Ti.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/81Qu95qJUeL.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -1166,7 +1166,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 24000,
     "MemoryBusWidth": 384,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_3090_Ti.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/51K36OrmxLL._AC_UF894,1000_QL80_.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -1181,7 +1181,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 8000,
     "MemoryBusWidth": 256,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_3070_Ti.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/81QEimf6VvL._AC_UF894,1000_QL80_DpWeblab_.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -1196,7 +1196,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 8000,
     "MemoryBusWidth": 256,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_3070_Ti.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/81t7Ga7nyxS.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -1211,7 +1211,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 8000,
     "MemoryBusWidth": 256,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_3070_Ti.jpg",
+    "GraphicURL": "https://asset.msi.com/resize/image/global/product/product_1622528277a4c1902fbb975eefeda64faddf79653e.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
     "SourceURL": "GPUData"
   },
   {
@@ -1226,7 +1226,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 8000,
     "MemoryBusWidth": 256,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_3070_Ti.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/71afWy-m5RS.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -1241,7 +1241,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 8000,
     "MemoryBusWidth": 256,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_3070_Ti.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/81ZWSNdXNSS.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -1256,7 +1256,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 8000,
     "MemoryBusWidth": 256,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_3070_Ti.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/81tZgYJBFgS.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -1271,7 +1271,7 @@
     "MemoryType": "GDDR6X",
     "MemorySize": 8000,
     "MemoryBusWidth": 256,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_3070_Ti.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/615CYrZfwkS._AC_UF894,1000_QL80_.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -1286,7 +1286,7 @@
     "MemoryType": "GDDR6",
     "MemorySize": 8000,
     "MemoryBusWidth": 256,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_3070.jpg",
+    "GraphicURL": "https://dlcdnwebimgs.asus.com/gain/2C3B46BF-6C4B-46E1-A3AD-B813AC8BCA91/w717/h525",
     "SourceURL": "GPUData"
   },
   {
@@ -1301,7 +1301,7 @@
     "MemoryType": "GDDR6",
     "MemorySize": 8000,
     "MemoryBusWidth": 256,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_3070.jpg",
+    "GraphicURL": "hhttps://dlcdnwebimgs.asus.com/gain/fbc15af5-8c97-4bb4-bb84-8eb47c3da230/",
     "SourceURL": "GPUData"
   },
   {
@@ -1316,7 +1316,7 @@
     "MemoryType": "GDDR6",
     "MemorySize": 8000,
     "MemoryBusWidth": 256,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_3070.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/81761uwFaIL._AC_UF894,1000_QL80_.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -1331,7 +1331,7 @@
     "MemoryType": "GDDR6",
     "MemorySize": 8000,
     "MemoryBusWidth": 256,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_3070.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/71fVA2pm7mL._AC_UF894,1000_QL80_.jpg",
     "SourceURL": "GPUData"
   },
   {
@@ -1346,7 +1346,7 @@
     "MemoryType": "GDDR6",
     "MemorySize": 8000,
     "MemoryBusWidth": 256,
-    "GraphicURL": "https://example.com/images/NVIDIA_GeForce_RTX_3070.jpg",
+    "GraphicURL": "https://m.media-amazon.com/images/I/71XcVOdHX+S.jpg",
     "SourceURL": "GPUData"
   }
 ]
