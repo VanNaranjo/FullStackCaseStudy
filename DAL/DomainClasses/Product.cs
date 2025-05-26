@@ -6,14 +6,17 @@ namespace CaseStudy.DAL.DomainClasses
     public class Product
     {
         [Key]
+        [StringLength(20)]
         public string? Id { get; set; }
         [ForeignKey("BrandId")]
         public Brand? Brand { get; set; }
         [Required]
         public int BrandId { get; set; }
         [Required]
+        [StringLength(50)]
         public string? ProductName { get; set; }
         [Required]
+        [StringLength(500)]
         public string? GraphicName { get; set; }
         [Required]
         [Column(TypeName = "money")]
@@ -26,7 +29,9 @@ namespace CaseStudy.DAL.DomainClasses
         [Required]
         public int QtyOnBackOrder { get; set; }
         [Required]
-        [StringLength(50)]
+        [StringLength(2000)]
         public string? Description { get; set; }
+        [Required]
+        public string? TotalVideoMemory { get; set; }
     }
 }   

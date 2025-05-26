@@ -1,6 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using CaseStudy.DAL;
-
 using CaseStudy.DAL.DomainClasses;
 
 namespace CaseStudy.DAL
