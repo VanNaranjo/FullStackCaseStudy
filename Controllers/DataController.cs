@@ -1,4 +1,5 @@
 ﻿using CaseStudy.DAL;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Text.Json;
 
@@ -6,6 +7,7 @@ namespace CaseStudy.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class DataController : ControllerBase
     {
         readonly AppDbContext? _ctx;
@@ -16,7 +18,7 @@ namespace CaseStudy.Controllers
 
         private static async Task<String> GetGpuJsonFromWebAsync()
         {
-            string url = "https://raw.githubusercontent.com/VanNaranjo/FullStackCaseStudy/refs/heads/master/GPUData.json";
+            string url = "https://raw.githubCustomercontent.com/VanNaranjo/FullStackCaseStudy/refs/heads/master/GPUData.json";
             var httpClient = new HttpClient();
             var response = await httpClient.GetAsync(url);
             var result = await response.Content.ReadAsStringAsync();

@@ -3,11 +3,13 @@ using CaseStudy.DAL.DomainClasses;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using CaseStudy.DAL.DAO;
+using Microsoft.AspNetCore.Authorization;
 
 namespace CaseStudy.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class BrandController : ControllerBase
     {
         readonly AppDbContext? _ctx;
