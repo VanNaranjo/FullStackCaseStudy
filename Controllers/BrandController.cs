@@ -19,6 +19,7 @@ namespace CaseStudy.Controllers
         }
 
         [HttpGet]
+        [AllowAnonymous]
         public async Task<ActionResult<List<Brand>>> Index()
         {
             BrandDAO dao = new(_ctx!);
